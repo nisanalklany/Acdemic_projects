@@ -45,4 +45,4 @@ The system combines **multithreading** and **multiprocessing** to improve perfor
 
 ## Output
 The system generates a summary file:
-##  Grade: 92/100
+##  Grade: 100/100
