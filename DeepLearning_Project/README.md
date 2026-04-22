@@ -24,4 +24,4 @@ Developed a deep learning-based diagnostic system for detecting pneumonia from c
 
 ## Files
 - Final_Project.pdf – Full project report including methodology, model comparison, and results
-- Grade: 92/100
+## Grade: 92/100
