@@ -14,7 +14,7 @@ Developed a deep learning-based diagnostic system for detecting pneumonia from c
 - Compared model performance across different architectures
 
 ## Results
-- Achieved high classification performance on validation data
+- Achieved high classification performance on validation and test data
 - Demonstrated the effectiveness of transfer learning over custom CNN in this task
 
 ## Key Learnings
