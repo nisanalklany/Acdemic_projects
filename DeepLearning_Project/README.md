@@ -4,7 +4,7 @@
 Developed a deep learning-based diagnostic system for detecting pneumonia from chest X-ray images.
 
 ## Approach
-- Implemented and compared custom CNN architectures with Transfer Learning models (ResNet, DenseNet)
+- Implemented and compared custom CNN architectures with Transfer Learning models (ResNet)
 - Used TensorFlow for model development and training
 - Applied data augmentation techniques to improve generalization
 - Performed hyperparameter tuning (learning rate, batch size, etc.)
