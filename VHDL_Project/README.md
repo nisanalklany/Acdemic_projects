@@ -78,4 +78,5 @@ The design consists of several key components:
 ---
 
 ## Files
-- SRAM_Final_Project_Report.pdf – Full report including architecture, FSM design, and simulation results
+- SRAM_Final_Project_Report.pdf – Full report including architecture, FSM design, and simulation results.
+## Grade : 97/100
