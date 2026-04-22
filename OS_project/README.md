@@ -38,7 +38,7 @@ The system combines **multithreading** and **multiprocessing** to improve perfor
 - Calculation of:
   - Mean
   - Median
-  - Grade distribution (histogram)
+  - Grade distribution (histogram).
 - Automatic generation of summary report
 
 ---
