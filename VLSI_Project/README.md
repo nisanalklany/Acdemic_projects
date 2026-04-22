@@ -92,4 +92,5 @@ The system includes the following components:
 ---
 
 ## Files
-- SRAM_Final_Project_Report.pdf – Full report including schematics, layout, and simulation results
+- SRAM_Final_Project_Report.pdf – Full report including schematics, layout, and simulation result
+## Grade : 98/100
